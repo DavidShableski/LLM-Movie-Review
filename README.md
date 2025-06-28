@@ -2,7 +2,7 @@
 
 ## YouTube Demo
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-red)]((https://youtu.be/i1WWWHY6XCM))
+[![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-red)](https://youtu.be/i1WWWHY6XCM)
 
 
 A fully local retrieval-augmented generation (RAG) pipeline that answers natural language questions about movie reviews.  
