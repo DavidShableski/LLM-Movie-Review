@@ -12,7 +12,6 @@ Runs entirely offline using:
 - 🗃️ **Chroma** for the vector database
 - 🔗 **LangChain** for retrieval + prompt orchestration
 - ✨ **Rich** for clean terminal output
-- 🔍 **NLTK** for simple keyword analysis
 
 ---
 
