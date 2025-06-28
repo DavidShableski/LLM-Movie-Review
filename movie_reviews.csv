@@ -1,0 +1,389 @@
+Movie,Review,Rating,Date
+Dune 2,Visually stunning but pacing was slow in the middle.,8,2025-05-12
+Dune 2,"Loved the world-building, pacing felt uneven though.",7,2025-05-13
+Dune 2,The final act made up for earlier slow parts.,8,2025-05-15
+Top Gun Maverick,"Absolutely loved the aerial stunts, so thrilling.",9,2022-07-04
+Top Gun Maverick,Tom Cruise did an incredible job with the stunts.,9,2022-07-05
+Mission Impossible 7,Insane stunts but felt like the same old formula.,8,2023-08-15
+Mission Impossible 7,"Great action sequences, story was predictable.",7,2023-08-16
+Oppenheimer,"Dialogue heavy, intense but slow build up.",8,2023-07-20
+Oppenheimer,"Masterful direction, but a bit long for some viewers.",9,2023-07-21
+Barbie,"Colorful, witty, and surprisingly sharp.",8,2023-07-22
+Barbie,"A fun watch with deeper themes than expected.",8,2023-07-23
+Barbie,"Felt a bit scattered at times, but Margot Robbie was great.",7,2023-07-24
+The Batman,"Dark, gritty, and visually striking. Pattinson nailed it.",9,2022-03-05
+The Batman,"A bit too long, but loved the detective angle.",8,2022-03-06
+The Batman,"Great soundtrack and mood, story was a slow burn.",8,2022-03-07
+Avatar 2,"Gorgeous to look at, story was predictable.",7,2022-12-18
+Avatar 2,"Loved returning to Pandora, felt a bit bloated.",7,2022-12-19
+Avatar 2,"The water scenes were stunning, worth seeing in theaters.",8,2022-12-20
+John Wick 4,"Nonstop action, Keanu is still the king.",9,2023-04-01
+John Wick 4,"Incredible choreography, thin plot but who cares.",8,2023-04-02
+John Wick 4,"A bit too long, but the action makes up for it.",8,2023-04-03
+John Wick 4,"Loved the new characters, felt fresh.",9,2023-04-04
+Spider-Man: Across the Spider-Verse,"Stunning animation, so creative.",9,2023-06-05
+Spider-Man: Across the Spider-Verse,"A bit too much setup for the next movie, but still amazing.",8,2023-06-06
+Spider-Man: Across the Spider-Verse,"Loved the multiverse concept, gorgeous visuals.",9,2023-06-07
+Spider-Man: Across the Spider-Verse,"Miles' story keeps getting better.",9,2023-06-08
+Killers of the Flower Moon,"Long but riveting, Scorsese delivers again.",9,2023-10-21
+Killers of the Flower Moon,"Excellent performances, needed a tighter edit.",8,2023-10-22
+Killers of the Flower Moon,"Haunting and beautifully shot.",9,2023-10-23
+Killers of the Flower Moon,"A heavy story that sticks with you.",9,2023-10-24
+Everything Everywhere All at Once,"Wild ride, so original and heartfelt.",9,2022-04-01
+Everything Everywhere All at Once,"A bit chaotic at times but loved it.",8,2022-04-02
+Everything Everywhere All at Once,"Michelle Yeoh was phenomenal, crazy multiverse fun.",9,2022-04-03
+Everything Everywhere All at Once,"Not for everyone, but it worked for me.",8,2022-04-04
+Elvis,"Austin Butler transformed into Elvis, amazing job.",8,2022-07-10
+Elvis,"Visually striking, but felt long and messy.",7,2022-07-11
+Elvis,"Loved the music, story felt rushed in parts.",7,2022-07-12
+Elvis,"Baz Luhrmann's style isn't for everyone.",7,2022-07-13
+The Fabelmans,"Spielberg at his most personal, really moving.",9,2022-11-23
+The Fabelmans,"Beautiful filmmaking, slow at times.",8,2022-11-24
+The Fabelmans,"Loved how it explored family and art.",9,2022-11-25
+The Fabelmans,"Felt a bit self-indulgent, but still very good.",8,2022-11-26
+Guardians of the Galaxy Vol. 3,"Fun and emotional, great sendoff.",8,2023-05-05
+Guardians of the Galaxy Vol. 3,"Rocket’s story hit hard, loved it.",9,2023-05-06
+Guardians of the Galaxy Vol. 3,"Still had that Marvel humor, maybe too much.",7,2023-05-07
+Guardians of the Galaxy Vol. 3,"A bit uneven but satisfying finale.",8,2023-05-08
+Nope,"Weird, suspenseful, very Jordan Peele.",8,2022-07-22
+Nope,"Loved the visuals and the tension.",8,2022-07-23
+Nope,"Not sure I got all of it, but it was interesting.",7,2022-07-24
+Nope,"That scene with the monkey was haunting.",8,2022-07-25
+The Whale,"Brendan Fraser was heartbreaking, deserved that Oscar.",9,2023-02-24
+The Whale,"Incredibly sad, not sure I’d watch again.",8,2023-02-25
+The Whale,"Powerful performances, heavy subject matter.",8,2023-02-26
+The Whale,"Felt a bit stagey but still very moving.",8,2023-02-27
+Wonka,"Charming and colorful, Timothée was fun.",7,2024-12-15
+Wonka,"Some songs were catchy, story was just okay.",7,2024-12-16
+Wonka,"Lighthearted, not super memorable.",6,2024-12-17
+Wonka,"Nice visuals, but it didn’t really stick with me.",6,2024-12-18
+Napoleon,"Epic battles, but the story felt all over the place.",7,2023-11-22
+Napoleon,"Phoenix was great, wish it dug deeper.",7,2023-11-23
+Napoleon,"Some stunning scenes, but kind of hollow overall.",6,2023-11-24
+Napoleon,"Impressive scale, emotionally a bit flat.",7,2023-11-25
+Poor Things,"Emma Stone was fearless, absolutely wild film.",9,2024-01-05
+Poor Things,"Strange but beautiful, loved the design.",9,2024-01-06
+Poor Things,"A bit too weird for me at times.",7,2024-01-07
+Poor Things,"Surreal and funny, not for everyone.",8,2024-01-08
+Air,"Loved seeing the story behind the Air Jordans, fun cast.",8,2023-04-06
+Air,"Great 80s vibes, Damon and Affleck were solid.",8,2023-04-07
+Air,"A bit light on tension but enjoyable.",7,2023-04-08
+Air,"Felt like a long commercial at times.",7,2023-04-09
+The Northman,"Brutal and beautiful, loved the Viking setting.",8,2022-04-22
+The Northman,"Very intense, not sure I connected with it fully.",7,2022-04-23
+The Northman,"Incredible cinematography, raw story.",8,2022-04-24
+The Northman,"Felt a bit cold emotionally but stunning to watch.",7,2022-04-25
+Glass Onion,"So much fun, clever and stylish mystery.",8,2022-12-23
+Glass Onion,"Liked it almost as much as Knives Out.",8,2022-12-24
+Glass Onion,"Tons of twists, maybe tried too hard at points.",7,2022-12-25
+Glass Onion,"Benoit Blanc is still a great character.",8,2022-12-26
+Asteroid City,"Wes Anderson doing peak Wes Anderson.",8,2023-06-16
+Asteroid City,"Beautiful to look at, story was kind of thin.",7,2023-06-17
+Asteroid City,"Loved the quirky humor, some didn’t land.",7,2023-06-18
+Asteroid City,"Visually perfect, but a bit too whimsical for me.",7,2023-06-19
+Saltburn,"Dark and twisted, Barry Keoghan was amazing.",8,2023-12-15
+Saltburn,"Super stylish but left me feeling uncomfortable.",7,2023-12-16
+Saltburn,"A wild ride, didn’t see that ending coming.",8,2023-12-17
+Saltburn,"Felt kind of hollow despite all the shock value.",7,2023-12-18
+Tár,"Cate Blanchett was phenomenal, intense character study.",9,2022-10-08
+Tár,"Really well made but felt long and heavy.",8,2022-10-09
+Tár,"Brilliantly acted, not sure I’d watch again.",8,2022-10-10
+Tár,"Cold and precise, exactly what it was aiming for.",8,2022-10-11
+The Menu,"Darkly funny, loved the satire on food culture.",8,2022-11-18
+The Menu,"Weird and tense, Anya Taylor-Joy was great.",8,2022-11-19
+The Menu,"A bit over the top, but entertaining.",7,2022-11-20
+The Menu,"Left me thinking, which I didn’t expect.",8,2022-11-21
+The Marvels,"Light and breezy, not super memorable.",6,2023-11-10
+The Marvels,"Some fun moments, but felt rushed.",6,2023-11-11
+The Marvels,"Cast was good, story was kind of all over.",6,2023-11-12
+The Marvels,"Enjoyable enough for a popcorn movie.",6,2023-11-13
+Bullet Train,"Brad Pitt was fun, loved the style.",7,2022-08-05
+Bullet Train,"Slick and goofy, not very deep but entertaining.",7,2022-08-06
+Bullet Train,"A bit too long but some great action.",7,2022-08-07
+Bullet Train,"Felt like a Guy Ritchie knockoff at times.",6,2022-08-08
+Star Wars: Episode I - The Phantom Menace,"Darth Maul was awesome, but too much politics.",7,1999-05-21
+Star Wars: Episode I - The Phantom Menace,"Jar Jar was annoying, lightsaber fight was epic.",6,1999-05-22
+Star Wars: Episode I - The Phantom Menace,"Loved the podrace scene, story was kind of flat.",7,1999-05-23
+Star Wars: Episode I - The Phantom Menace,"Visually stunning for the time, weak dialogue.",6,1999-05-24
+Star Wars: Episode II - Attack of the Clones,"Some great battles, but the romance was awkward.",7,2002-05-16
+Star Wars: Episode II - Attack of the Clones,"Yoda’s lightsaber fight was a highlight.",7,2002-05-17
+Star Wars: Episode II - Attack of the Clones,"Dialogue was rough, but loved Kamino and the clones.",6,2002-05-18
+Star Wars: Episode II - Attack of the Clones,"CGI heavy but still fun for a Star Wars fan.",7,2002-05-19
+Star Wars: Episode III - Revenge of the Sith,"Dark and emotional, best of the prequels.",8,2005-05-19
+Star Wars: Episode III - Revenge of the Sith,"Order 66 hit hard, really tragic.",8,2005-05-20
+Star Wars: Episode III - Revenge of the Sith,"Some cheesy lines, but the story paid off.",8,2005-05-21
+Star Wars: Episode III - Revenge of the Sith,"Loved seeing Anakin’s fall, powerful ending.",8,2005-05-22
+Star Wars: Episode IV - A New Hope,"Classic adventure, still magical after all these years.",9,1977-05-25
+Star Wars: Episode IV - A New Hope,"Simple story, great characters, timeless.",9,1977-05-26
+Star Wars: Episode IV - A New Hope,"Effects dated but charm is unbeatable.",8,1977-05-27
+Star Wars: Episode IV - A New Hope,"Set the gold standard for sci-fi movies.",9,1977-05-28
+Star Wars: Episode V - The Empire Strikes Back,"Darker, deeper, best twist in cinema.",10,1980-05-21
+Star Wars: Episode V - The Empire Strikes Back,"Hoth and Cloud City were amazing settings.",10,1980-05-22
+Star Wars: Episode V - The Empire Strikes Back,"So well paced, absolutely loved it.",10,1980-05-23
+Star Wars: Episode V - The Empire Strikes Back,"Han and Leia’s story was perfect.",10,1980-05-24
+Star Wars: Episode VI - Return of the Jedi,"Loved the redemption arc, Ewoks were okay.",8,1983-05-25
+Star Wars: Episode VI - Return of the Jedi,"Final battle was thrilling, great conclusion.",9,1983-05-26
+Star Wars: Episode VI - Return of the Jedi,"Some silly bits but still fantastic.",8,1983-05-27
+Star Wars: Episode VI - Return of the Jedi,"The throne room scenes were incredible.",9,1983-05-28
+Dr. No,"Classic start, Connery was effortlessly cool.",8,1962-10-05
+Dr. No,"A bit slow by today’s standards but iconic.",7,1962-10-06
+Dr. No,"Loved the style and atmosphere.",8,1962-10-07
+From Russia with Love,"Tighter story than Dr. No, great train sequence.",9,1963-10-10
+From Russia with Love,"Connery shines again, suspenseful.",9,1963-10-11
+From Russia with Love,"Still one of the best Bond films.",9,1963-10-12
+Goldfinger,"Gold standard for Bond, loved the gadgets.",10,1964-09-17
+Goldfinger,"Oddjob was such a memorable villain.",10,1964-09-18
+Goldfinger,"Plot was simple but so stylish.",9,1964-09-19
+Thunderball,"Underwater scenes were cool but dragged on.",7,1965-12-21
+Thunderball,"Not my favorite, but still classic Bond.",7,1965-12-22
+Thunderball,"Some fantastic action sequences.",8,1965-12-23
+You Only Live Twice,"Loved Japan setting, bit over-the-top.",7,1967-06-13
+You Only Live Twice,"Villain lair was incredible.",8,1967-06-14
+You Only Live Twice,"Felt a little dated but entertaining.",7,1967-06-15
+On Her Majesty's Secret Service,"Lazenby surprised me, strong emotional story.",8,1969-12-18
+On Her Majesty's Secret Service,"Ending was heartbreaking.",8,1969-12-19
+On Her Majesty's Secret Service,"Underrated Bond film.",8,1969-12-20
+Diamonds Are Forever,"Campy fun, not very serious.",7,1971-12-17
+Diamonds Are Forever,"Connery back but it felt tired.",6,1971-12-18
+Diamonds Are Forever,"Had its moments, but a step down.",6,1971-12-19
+Live and Let Die,"Great opening, Moore brought humor.",7,1973-06-27
+Live and Let Die,"Loved the theme song, story was uneven.",7,1973-06-28
+Live and Let Die,"Fun voodoo villain, kind of cheesy.",7,1973-06-29
+The Man with the Golden Gun,"Scaramanga was a fantastic villain.",7,1974-12-19
+The Man with the Golden Gun,"Story felt light, cool locations though.",6,1974-12-20
+The Man with the Golden Gun,"Loved the duel at the end.",7,1974-12-21
+The Spy Who Loved Me,"Classic Bond, loved the underwater car.",8,1977-07-07
+The Spy Who Loved Me,"Jaws was a great henchman.",8,1977-07-08
+The Spy Who Loved Me,"One of Moore’s best outings.",8,1977-07-09
+Moonraker,"Bond in space... little too silly.",6,1979-06-26
+Moonraker,"Jaws coming back was fun.",6,1979-06-27
+Moonraker,"More sci-fi than spy movie.",6,1979-06-28
+For Your Eyes Only,"More grounded, good change of pace.",7,1981-06-24
+For Your Eyes Only,"Solid action, not very memorable.",7,1981-06-25
+For Your Eyes Only,"Moore toned down the camp, worked well.",7,1981-06-26
+Octopussy,"Weird title, fun movie though.",7,1983-06-10
+Octopussy,"Had its silly moments, still enjoyable.",7,1983-06-11
+Octopussy,"Cool circus spy stuff.",7,1983-06-12
+A View to a Kill,"Moore was too old by now, Walken was great.",6,1985-05-24
+A View to a Kill,"Duran Duran theme was awesome.",6,1985-05-25
+A View to a Kill,"Not the best Bond, still entertaining.",6,1985-05-26
+The Living Daylights,"Dalton brought serious edge, liked it.",8,1987-06-29
+The Living Daylights,"Good Cold War plot.",8,1987-06-30
+The Living Daylights,"More realistic take, worked well.",8,1987-07-01
+Licence to Kill,"Darkest Bond yet, Dalton was intense.",8,1989-06-13
+Licence to Kill,"Felt more like an 80s action movie.",7,1989-06-14
+Licence to Kill,"Great revenge story.",8,1989-06-15
+GoldenEye,"Brosnan was perfect casting, loved the tank chase.",9,1995-11-17
+GoldenEye,"Xenia Onatopp was such a fun villain.",9,1995-11-18
+GoldenEye,"Iconic video game helped too!",9,1995-11-19
+Tomorrow Never Dies,"Fun, not as strong as GoldenEye.",7,1997-12-12
+Tomorrow Never Dies,"Loved the motorcycle chase.",7,1997-12-13
+Tomorrow Never Dies,"Story felt kind of recycled.",7,1997-12-14
+The World Is Not Enough,"Interesting villain, weak climax.",7,1999-11-19
+The World Is Not Enough,"Sophie Marceau was great.",7,1999-11-20
+The World Is Not Enough,"Some cool action scenes.",7,1999-11-21
+Die Another Day,"Invisible car? Ice palace? Too much.",6,2002-11-22
+Die Another Day,"Fun in a ridiculous way.",6,2002-11-23
+Die Another Day,"Halle Berry was a highlight.",6,2002-11-24
+Casino Royale,"Craig was raw and intense, best reboot ever.",9,2006-11-14
+Casino Royale,"Loved the poker scenes.",9,2006-11-15
+Casino Royale,"Eva Green was incredible.",9,2006-11-16
+Quantum of Solace,"Messy plot but some great action.",7,2008-10-31
+Quantum of Solace,"Felt like half a story, still entertaining.",7,2008-11-01
+Quantum of Solace,"Craig carried it.",7,2008-11-02
+Skyfall,"Best looking Bond film, loved the theme.",9,2012-10-26
+Skyfall,"Javier Bardem was a fantastic villain.",9,2012-10-27
+Skyfall,"Such an emotional story for Bond.",9,2012-10-28
+Spectre,"Started strong, fizzled at the end.",7,2015-10-26
+Spectre,"Liked the connections to earlier films.",7,2015-10-27
+Spectre,"Craig was still great, story felt forced.",7,2015-10-28
+No Time to Die,"Emotional sendoff, bold choices.",8,2021-09-28
+No Time to Die,"Loved Ana de Armas' scene, wished she had more.",8,2021-09-29
+No Time to Die,"Long but satisfying end for Craig.",8,2021-09-30
+Review,Rating,Date
+Gladiator,"Incredible battles, loved the story of revenge.",9,2000-05-05
+Gladiator,"Russell Crowe was amazing, still holds up.",9,2000-05-06
+Gladiator,"Some slow parts, but that ending!",8,2000-05-07
+The Shawshank Redemption,"Perfectly acted, deeply moving.",10,1994-09-23
+The Shawshank Redemption,"So hopeful, one of my all-time favorites.",10,1994-09-24
+The Shawshank Redemption,"Long but never boring, incredible film.",10,1994-09-25
+Forrest Gump,"Hanks was brilliant, such a heartwarming movie.",9,1994-07-06
+Forrest Gump,"A bit sentimental but hard not to love.",9,1994-07-07
+Forrest Gump,"Iconic soundtrack, unforgettable lines.",9,1994-07-08
+The Matrix,"Mind-blowing effects, loved the philosophy.",9,1999-03-31
+The Matrix,"Neo was such a cool character, amazing fights.",9,1999-04-01
+The Matrix,"Even better on a rewatch when you know the twists.",9,1999-04-02
+Inception,"Nolan did it again, such a clever concept.",9,2010-07-16
+Inception,"Loved the dream layers, but got a bit confusing.",8,2010-07-17
+Inception,"Ending still makes me think.",9,2010-07-18
+The Godfather,"Absolute classic, every scene was perfect.",10,1972-03-24
+The Godfather,"Brando was unforgettable.",10,1972-03-25
+The Godfather,"Long but completely absorbing.",10,1972-03-26
+The Dark Knight,"Ledger stole the show, best superhero movie ever.",10,2008-07-18
+The Dark Knight,"Gritty and intense, loved it.",10,2008-07-19
+The Dark Knight,"So many iconic moments, never gets old.",10,2008-07-20
+Mad Max: Fury Road,"Nonstop action, visually stunning.",9,2015-05-15
+Mad Max: Fury Road,"Charlize Theron was incredible.",9,2015-05-16
+Mad Max: Fury Road,"Story was thin but didn’t matter.",8,2015-05-17
+Parasite,"So tense, amazing social commentary.",10,2019-05-30
+Parasite,"Loved how it shifted genres halfway.",9,2019-05-31
+Parasite,"Deserved that Best Picture win.",10,2019-06-01
+Interstellar,"Beautiful and emotional, great music.",9,2014-11-07
+Interstellar,"Got a bit heavy on the science talk, still loved it.",8,2014-11-08
+Interstellar,"The ending was a bit confusing but moving.",9,2014-11-09
+Titanic,"Huge scale, tragic love story.",9,1997-12-19
+Titanic,"Some cheesy lines, but hard not to be swept up.",8,1997-12-20
+Titanic,"Leo and Kate were perfect together.",9,1997-12-21
+Jurassic Park,"Still terrifying, incredible dinosaurs.",9,1993-06-11
+Jurassic Park,"Loved the suspense and effects.",9,1993-06-12
+Jurassic Park,"Some parts felt dated, but still awesome.",8,1993-06-13
+La La Land,"Beautiful music and visuals, bittersweet ending.",9,2016-12-09
+La La Land,"Loved Gosling and Stone, pure chemistry.",9,2016-12-10
+La La Land,"Not usually into musicals but this was great.",8,2016-12-11
+Whiplash,"So intense, Simmons was terrifying.",9,2014-10-10
+Whiplash,"Great story about obsession and ambition.",9,2014-10-11
+Whiplash,"That final scene blew me away.",9,2014-10-12
+Her,"Thoughtful and sad, Joaquin was fantastic.",8,2013-11-20
+Her,"Strange concept but so moving.",8,2013-11-21
+Her,"Scarlett’s voice work was perfect.",8,2013-11-22
+Logan,"Dark and emotional, perfect sendoff.",9,2017-03-03
+Logan,"So much heart, one of the best X-Men movies.",9,2017-03-04
+Logan,"Violent but felt very real.",8,2017-03-05
+The Social Network,"Fast dialogue, brilliant soundtrack.",9,2010-10-01
+The Social Network,"Made tech drama exciting, loved it.",9,2010-10-02
+The Social Network,"Great performances all around.",9,2010-10-03
+Schindler’s List,"Devastating but so important, incredible filmmaking.",10,1993-12-15
+Schindler’s List,"Hard to watch but essential.",10,1993-12-16
+Schindler’s List,"Spielberg’s best, unforgettable.",10,1993-12-17
+12 Angry Men,"Brilliant dialogue, tense all the way.",10,1957-04-10
+12 Angry Men,"Simple set but so gripping.",9,1957-04-11
+12 Angry Men,"Feels timeless, still powerful today.",9,1957-04-12
+The Fellowship of the Ring,"Perfect start to the trilogy, magical.",9,2001-12-19
+The Fellowship of the Ring,"Loved the world-building, bit slow in the middle.",8,2001-12-20
+The Fellowship of the Ring,"Characters were fantastic, visually stunning.",9,2001-12-21
+The Two Towers,"Helm’s Deep is one of the best battles ever.",10,2002-12-18
+The Two Towers,"So much action, loved Gollum’s arc.",9,2002-12-19
+The Two Towers,"Felt darker, kept me hooked.",9,2002-12-20
+The Return of the King,"Incredible finale, emotional and epic.",10,2003-12-17
+The Return of the King,"A bit long at the end but beautiful.",9,2003-12-18
+The Return of the King,"Deserved all the Oscars.",10,2003-12-19
+Pulp Fiction,"So quotable, loved the non-linear story.",9,1994-10-14
+Pulp Fiction,"Weird but genius, Tarantino at his best.",9,1994-10-15
+Pulp Fiction,"Some slow bits but overall incredible.",9,1994-10-16
+Fight Club,"Mind-bending, loved the twist.",9,1999-10-15
+Fight Club,"So much to think about, darkly funny.",9,1999-10-16
+Fight Club,"Maybe tried too hard to be edgy, but still great.",8,1999-10-17
+The Good the Bad and the Ugly,"Best western ever, loved the music.",10,1966-12-23
+The Good the Bad and the Ugly,"Long but so worth it.",9,1966-12-24
+The Good the Bad and the Ugly,"Iconic standoff scene.",10,1966-12-25
+For a Few Dollars More,"Great showdown, maybe less epic than Good/Bad/Ugly.",8,1965-12-18
+For a Few Dollars More,"Leone’s style is unbeatable.",9,1965-12-19
+For a Few Dollars More,"Not my favorite of the trilogy, still amazing.",8,1965-12-20
+Once Upon a Time in the West,"Slow build but phenomenal payoff.",9,1968-12-21
+Once Upon a Time in the West,"So atmospheric, incredible score.",9,1968-12-22
+Once Upon a Time in the West,"Maybe a bit too long, but a masterpiece.",8,1968-12-23
+Se7en,"So dark and gripping, what an ending.",9,1995-09-22
+Se7en,"Loved the bleak atmosphere.",9,1995-09-23
+Se7en,"Not for everyone, very disturbing.",8,1995-09-24
+City of God,"Raw and powerful, felt so real.",10,2002-08-30
+City of God,"Blew me away, incredible storytelling.",10,2002-08-31
+City of God,"Hard to watch but unforgettable.",9,2002-09-01
+The Silence of the Lambs,"Hopkins was chilling, so tense.",10,1991-02-14
+The Silence of the Lambs,"Jodie Foster was fantastic.",9,1991-02-15
+The Silence of the Lambs,"Still scary after all these years.",9,1991-02-16
+Saving Private Ryan,"Opening scene was brutal and real.",10,1998-07-24
+Saving Private Ryan,"Incredible war movie, Spielberg nailed it.",10,1998-07-25
+Saving Private Ryan,"A bit melodramatic at the end but still great.",9,1998-07-26
+Spirited Away,"Beautiful animation, loved the imagination.",10,2001-07-20
+Spirited Away,"So strange but magical.",9,2001-07-21
+Spirited Away,"Maybe confusing for kids but stunning.",9,2001-07-22
+The Green Mile,"So emotional, Tom Hanks was great.",9,1999-12-10
+The Green Mile,"Long but worth every minute.",9,1999-12-11
+The Green Mile,"Heartbreaking story.",9,1999-12-12
+Léon: The Professional,"Unique bond between Leon and Mathilda.",9,1994-09-14
+Léon: The Professional,"Gary Oldman was terrifying.",9,1994-09-15
+Léon: The Professional,"A bit weird at times but still amazing.",8,1994-09-16
+The Usual Suspects,"Brilliant twist, loved the story.",9,1995-08-16
+The Usual Suspects,"So well written, great cast.",9,1995-08-17
+The Usual Suspects,"Maybe a bit convoluted but fantastic.",8,1995-08-18
+Harakiri,"Incredible samurai drama, so powerful.",10,1962-09-15
+Harakiri,"Bleak but beautifully shot.",9,1962-09-16
+Harakiri,"Masterful storytelling.",10,1962-09-17
+The Pianist,"Heartbreaking, Adrien Brody was phenomenal.",10,2002-09-25
+The Pianist,"So haunting, Polanski did an amazing job.",9,2002-09-26
+The Pianist,"Maybe slow for some but so moving.",9,2002-09-27
+American History X,"Norton was incredible, tough watch.",9,1998-10-30
+American History X,"Powerful story about hate and change.",9,1998-10-31
+American History X,"Ending left me speechless.",9,1998-11-01
+The Departed,"Scorsese at his best, loved the tension.",9,2006-10-06
+The Departed,"Great cast, so many twists.",9,2006-10-07
+The Departed,"Felt a bit chaotic but still amazing.",8,2006-10-08
+Terminator 2: Judgment Day,"Best action sequel ever.",10,1991-07-03
+Terminator 2: Judgment Day,"So many iconic moments.",10,1991-07-04
+Terminator 2: Judgment Day,"Arnold was perfect.",10,1991-07-05
+Back to the Future,"Perfect blend of comedy and sci-fi.",10,1985-07-03
+Back to the Future,"Loved the time travel rules.",9,1985-07-04
+Back to the Future,"Still fun after all these years.",9,1985-07-05
+The Prestige,"Loved the rivalry, so many twists.",9,2006-10-20
+The Prestige,"Bale and Jackman were fantastic.",9,2006-10-21
+The Prestige,"Maybe tried too hard to trick the audience but still great.",8,2006-10-22
+Casablanca,"So romantic and quotable.",10,1942-11-26
+Casablanca,"Incredible chemistry between Bogart and Bergman.",10,1942-11-27
+Casablanca,"Feels timeless.",10,1942-11-28
+Psycho,"Still scary today, Hitchcock was a genius.",10,1960-09-08
+Psycho,"The shower scene is legendary.",10,1960-09-09
+Psycho,"So ahead of its time.",10,1960-09-10
+The Intouchables,"Funny and heartwarming.",9,2011-11-02
+The Intouchables,"Loved the chemistry between the leads.",9,2011-11-03
+The Intouchables,"Maybe a bit predictable but so charming.",8,2011-11-04
+Grave of the Fireflies,"Absolutely devastating.",10,1988-04-16
+Grave of the Fireflies,"One of the saddest movies ever.",10,1988-04-17
+Grave of the Fireflies,"Beautifully done, hard to watch.",9,1988-04-18
+Alien,"So tense and atmospheric.",10,1979-05-25
+Alien,"Ripley is such a great character.",10,1979-05-26
+Alien,"Still scary after all these years.",10,1979-05-27
+Rear Window,"Clever and suspenseful.",10,1954-08-01
+Rear Window,"Loved the confined setting.",9,1954-08-02
+Rear Window,"Such great storytelling.",10,1954-08-03
+Cinema Paradiso,"Beautiful love letter to movies.",10,1988-11-17
+Cinema Paradiso,"So nostalgic and moving.",9,1988-11-18
+Cinema Paradiso,"Felt a bit long but worth it.",9,1988-11-19
+Memento,"Loved the backwards story.",9,2000-10-11
+Memento,"So clever, kept me guessing.",9,2000-10-12
+Memento,"Confusing at first but brilliant.",9,2000-10-13
+Apocalypse Now,"Dark and haunting, incredible filmmaking.",10,1979-08-15
+Apocalypse Now,"Some slow parts but amazing visuals.",9,1979-08-16
+Apocalypse Now,"Marlon Brando was chilling.",9,1979-08-17
+The Great Dictator,"Chaplin was brilliant, powerful message.",10,1940-10-15
+The Great Dictator,"So funny but also so sharp.",9,1940-10-16
+The Great Dictator,"Feels sadly relevant today.",10,1940-10-17
+Sunset Blvd.,"Dark look at Hollywood, incredible performances.",10,1950-08-10
+Sunset Blvd.,"Loved the narration style.",9,1950-08-11
+Sunset Blvd.,"So cynical, but fascinating.",9,1950-08-12
+Dr. Strangelove,"Hilarious and terrifying at the same time.",10,1964-01-29
+Dr. Strangelove,"So sharp and satirical.",9,1964-01-30
+Dr. Strangelove,"Still relevant decades later.",9,1964-01-31
+WALL·E,"Adorable and smart, loved the environmental message.",9,2008-06-27
+WALL·E,"So much emotion without words.",9,2008-06-28
+WALL·E,"Maybe a bit slow in the middle, but beautiful.",8,2008-06-29
+Oldboy,"Dark and twisted, incredible storytelling.",9,2003-11-21
+Oldboy,"The hallway fight scene was insane.",9,2003-11-22
+Oldboy,"Not for everyone, very intense.",8,2003-11-23
+Once Upon a Time in America,"Epic but a bit too long.",8,1984-06-01
+Once Upon a Time in America,"Loved De Niro, haunting story.",9,1984-06-02
+Once Upon a Time in America,"So many beautiful scenes.",9,1984-06-03
+Witness for the Prosecution,"Brilliant courtroom drama.",10,1957-12-17
+Witness for the Prosecution,"So many twists, loved it.",9,1957-12-18
+Witness for the Prosecution,"Laughton was fantastic.",9,1957-12-19
+Das Boot,"So tense, felt like I was trapped with them.",9,1981-09-17
+Das Boot,"Incredible submarine scenes.",9,1981-09-18
+Das Boot,"Maybe a bit too long but gripping.",8,1981-09-19
+Citizen Kane,"Still brilliant decades later.",10,1941-05-01
+Citizen Kane,"So many iconic shots.",10,1941-05-02
+Citizen Kane,"Not the easiest watch but so important.",9,1941-05-03
+Vertigo,"Such a haunting story.",10,1958-05-09
+Vertigo,"Loved the cinematography.",9,1958-05-10
+Vertigo,"Takes its time but worth it.",9,1958-05-11
+North by Northwest,"Fun thriller, loved the crop duster scene.",9,1959-07-01
+North by Northwest,"Grant was perfect, so charming.",9,1959-07-02
+North by Northwest,"Felt like classic adventure cinema.",9,1959-07-03
